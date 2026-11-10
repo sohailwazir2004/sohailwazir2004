@@ -26,3 +26,10 @@ I'm a Software Engineering student at **COMSATS University Islamabad**. I build 
 | [EventEase](https://github.com/sohailwazir2004/ease) | Event creation and management app (JavaScript, Flask) |
 | [Portfolio](https://github.com/sohailwazir2004/my-portfolio) | My React portfolio · [live](https://my-portfolio-three-silk-27.vercel.app) |
 | [Programming Fundamentals](https://github.com/sohailwazir2004/Programming-Fundamentals) | Java practice from my coursework |
+
+
+### Certificates
+
+**AWS Student Community Day Islamabad** — certificate of participation from the AWS Student Builder Group, Quaid-i-Azam University
+
+<img src="assets/aws-student-community-day-islamabad.jpg" alt="AWS Student Community Day Islamabad certificate" width="500">
