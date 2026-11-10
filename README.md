@@ -33,3 +33,18 @@ I'm a Software Engineering student at **COMSATS University Islamabad**. I build 
 **AWS Student Community Day Islamabad** — certificate of participation from the AWS Student Builder Group, Quaid-i-Azam University
 
 <img src="assets/aws-student-community-day-islamabad.jpg" alt="AWS Student Community Day Islamabad certificate" width="500">
+
+#### More certifications
+
+| Certificate | Issuer | Issued | Credential |
+|---|---|---|---|
+| 1 to 1 Million Workshop | AWS SBG CUI | Oct 2026 | [Verify](https://credsverse.com/credentials/a6b3ad36-2b09-4cfa-9089-beedaf8dcf87?preview=1) |
+| Spring Framework for Java Development | SkillUp | Dec 2025 | [Verify](https://www.coursera.org/account/accomplishments/records/0EK7BMVDCNXA) |
+| Introduction to HTML, CSS, & JavaScript | IBM | Oct 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/JQFCR6A9MKCK) |
+| Object Oriented Programming in Java | IBM | Sep 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/SH4PK482NUCP) |
+| HTML and CSS in depth | Meta | Sep 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/NSM4LTIYWK6L) |
+| Version Control | Meta | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/IJ90NK37R5JR) |
+| Programming with JavaScript | Meta | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/14TK2X7D9O62) |
+| Introduction to Programming Using Java | IBM | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/RILUCB64B5ZW) |
+| Introduction to Front-End Development | Meta | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/QQ4BMATTM6Z0) |
+| Introduction to Software Engineering | IBM | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/5HLEFAYPEVFX) |
